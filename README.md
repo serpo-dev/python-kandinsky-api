@@ -1,12 +1,6 @@
 # Python Kandinsky API
 
 #### Async Multi-Key AI Image Generator Kandinsky API 
-==================================
-
-Python script for bulk image generation via FusionBrain AI (Kandinsky) with API key rotation and parallel processing.
-
-### Key Features
-------------
 
 *   ⚡ Asynchronous requests
 *   🔑 Supports multiple API keys
@@ -15,7 +9,6 @@ Python script for bulk image generation via FusionBrain AI (Kandinsky) with API 
 *   ⚙️ Configurable image size and count
 
 ## Quick Start
------------
 
 1. Install requirements
     
